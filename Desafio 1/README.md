@@ -52,7 +52,7 @@ O recomendado é você utilizar um [ambiente virtual](https://pythonacademy.com.
 
     pip3 install virtualenv
     virtualenv venv -p python3
-    source venv/bin/activate 
+    venv/bin/activate 
     pip install -r requirements.txt
 
 Ao terminar o desafio, você pode sair do ambiente criado com o comando `deactivate`
